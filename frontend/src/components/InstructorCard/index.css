@@ -1,0 +1,43 @@
+.instructor-card{
+
+    background:white;
+
+    border-radius:15px;
+
+    padding:24px;
+
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+
+    transition:.3s;
+    border:2px solid transparent;
+
+}
+
+.instructor-card:hover{
+
+    transform:translateY(-6px);
+
+     border-color:#2563eb;
+}
+
+.instructor-card h2{
+
+    color:#1e3a8a;
+
+    margin-bottom:15px;
+
+}
+
+.instructor-card h4{
+
+    margin-top:20px;
+
+    margin-bottom:10px;
+
+}
+
+.instructor-card li{
+
+    margin-bottom:8px;
+
+}

@@ -1,0 +1,19 @@
+.learning-path{
+    margin-top:30px;
+}
+
+.path-item{
+    background:#eff6ff;
+    border-left:4px solid #2563eb;
+    padding:15px;
+    border-radius:8px;
+    margin-bottom:12px;
+    font-weight:500;
+}
+
+.path-arrow{
+    text-align:center;
+    color:#2563eb;
+    font-size:22px;
+    margin:8px 0;
+}
