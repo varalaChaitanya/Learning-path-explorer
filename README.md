@@ -18,7 +18,7 @@ Instead of storing relationships using multiple relational tables and complex JO
 
 # 🎥 Project Demo
 
-> **Screen Recording:** _Coming Soon_
+> GitHub Release (Screen Recording): https://github.com/varalaChaitanya/Learning-path-explorer/releases/tag/v1.0.0
 
 ---
 
