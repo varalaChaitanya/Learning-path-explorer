@@ -10,9 +10,9 @@ Instead of storing relationships using multiple relational tables and complex JO
 
 # 🌐 Live Demo
 
-> **Frontend:** _Coming Soon_
+> **Frontend:** https://learning-path-explorer.vercel.app/
 
-> **Backend API:** _Coming Soon_
+> **Backend API:** https://learning-path-explorer-api.onrender.com
 
 ---
 
